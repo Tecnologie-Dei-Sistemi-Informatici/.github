@@ -1,4 +1,5 @@
 # Appunti "Tecnologie dei Sistemi Informatici" Unibo
+_Se volete essere aggiunti come Manutentori, inviatemi un messaggio in privato su GitHub, sfortunatamente vi posso solo invitare_
 
 ## 🙋‍♀️Introduzione:
 *Parto con dare il Benvenuto a tutti coloro che sono nuovi nel corso, vi auguro una buona permanenza per i vostri prossimi tre anni. Questa Repository ha l'obbiettivo di creare una risorsa condivisa e affidabile per tutti gli studenti di "Tecnologie dei Sistemi Informatici" e rimarrà sempre pubblica e disponibile a tutti, con la speranza che con il passare degli anni tutti possano usufruirne per facilitare lo studio e per aumentare la curiosità in questo campo.*
